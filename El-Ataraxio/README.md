@@ -102,5 +102,5 @@ Este proyecto se distribuye bajo la [**Licencia CC BY 4.0**](https://creativecom
 ## 🧑‍💻 Autor y Agradecimientos
 
 * **Autor:** Dave (@daveClausell-AAEE)
-* Este proyecto es parte del Trabajo Final de Grado [**Ataraxia**](https://drive.google.com/file/d/1WQMaPPxe6ooSJ6NqvCiVL0xOhNEgWiBL/view?usp=sharing) de la Licenciatura en Artes Electrónicas.
+* Este proyecto es parte del Trabajo Final de Grado [**Ataraxia**](https://drive.google.com/file/d/1_IcEm5l5GKpxgTL6M_eNUjCFuTEx1AVf/view?usp=sharing) de la Licenciatura en Artes Electrónicas.
 * Agradecimientos especiales a mi asistente de IA, TFG-Gemini, por su colaboración en la estructuración y redacción de la documentación.
