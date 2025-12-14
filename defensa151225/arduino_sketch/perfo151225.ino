@@ -8,11 +8,11 @@
 // ---------------------------------------------
 // --- 1. CONFIGURACIÓN DE RED ---
 // ---------------------------------------------
-const char* ssid = "TeleRed-4601";
-const char* password = "5C68FF4601";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
 // Destino Pure Data/PlugData (OSC Bundle)
-IPAddress outIp(192, 168, 0, 7); 
+IPAddress outIp(192, 168, 0, 7); // IP de la PC 
 const unsigned int outPort = 9000;    // Puerto de escucha de PlugData
 const unsigned int localPort = 8888;  // Puerto de envío del Ataraxio
 
