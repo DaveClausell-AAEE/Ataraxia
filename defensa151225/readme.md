@@ -1,10 +1,10 @@
-# 🔊 Sonificación de Datos Biométricos para Performance
+# 🔊 Sonificación de datos biométricos para performance
 
-## 📜 Descripción del Proyecto
+## 📜 Descripción del proyecto
 
 Este repositorio contiene los códigos, datos y materiales utilizados en la defensa del proyecto de sonificación interactiva. El objetivo es transformar en tiempo real datos fisiológicos y cinéticos —específicamente la **Actividad Electrodérmica (GSR)** y el **movimiento (IMU)** del intérprete— en parámetros musicales dentro de un entorno de performance.
 
-El proyecto establece un puente de comunicación robusto entre el hardware embebido (M5StickC Plus) y el software de audio modular (PlugData/Pure Data) para crear una experiencia sonora íntima y reactiva.
+El proyecto establece un puente de comunicación entre el hardware embebido (M5StickC Plus) y el software de audio modular (PlugData/Pure Data) para crear una experiencia sonora íntima y reactiva.
 
 ## ⚙️ Componentes Principales
 
