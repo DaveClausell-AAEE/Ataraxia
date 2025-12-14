@@ -25,7 +25,7 @@ El proyecto establece un puente de comunicación entre el hardware embebido (M5S
 
 | Dato | Ruta OSC | Tipo de Envío | Uso |
 | :--- | :--- | :--- | :--- |
-| **Activación Fisiológica** | `/sensor/gsr` | Bundle | Mapeo directo a Tono, Frecuencia, o Densidad. |
-| **Movimiento / Rotación** | `/sensor/gyro` | Bundle | Mapeo a Paneo Estéreo o Modulación de Filtro. |
-| **Trigger Botón A** | `/btn/a` | Paquete Separado | Inicio de sección o disparo de sonido. |
-| **Trigger Botón B** | `/btn/b` | Paquete Separado | Reset o cambio de *preset*. |
+| **Activación Fisiológica** | `/sensor/gsr` | Bundle | Mapeo directo al tempo de ejecución del patch de ambient. |
+| **Movimiento / Rotación** | `/sensor/gyro` | Bundle | Mapeo a control de volúmen de la sonificación de datos. |
+| **Trigger Botón A** | `/btn/a` | Paquete Separado | Inicio de performance. |
+| **Trigger Botón B** | `/btn/b` | Paquete Separado | Activa/desactiva el DSP. |
