@@ -17,9 +17,9 @@ El proyecto establece un puente de comunicación entre el hardware embebido (M5S
 ## 📁 Estructura del Repositorio
 
 * **`arduino_sketch/`**: Contiene el código fuente [`perfo151225.ino`](https://github.com/DaveClausell-AAEE/Ataraxia/blob/main/defensa151225/arduino_sketch/perfo151225.ino)) para el M5StickC Plus. **Configurado para enviar triggers de botón inmediatos y Bundle OSC de sensores.**
-* **`python_monitor/`**: Contiene el [`script`](https://github.com/DaveClausell-AAEE/Ataraxia/blob/main/defensa151225/python_monitor/monitor_gsr_simple.py) de Python para el gráfico de superposición (overlay) en la pantalla del PC, optimizado para una relación de aspecto 2:1 y fondo negro.
-* **`datos_brutos/`**: Contiene los 17 archivos `.txt` utilizados como material base o referencia para el proyecto.
-* **`presentacion/`**: Archivo PDF de la presentación final del proyecto (Google Slides).
+* **`python_monitor/`**: Contiene el [`script`](https://github.com/DaveClausell-AAEE/Ataraxia/blob/main/defensa151225/python_monitor/monitor_gsr_simple.py) de Python para el gráfico de superposición (overlay) en la pantalla de la PC.
+* **`datos_brutos/`**: Contiene los 17 archivos `.txt` utilizados como material base para el proyecto.
+* **`presentacion/`**: [`Archivo`](https://docs.google.com/presentation/d/1YtMcYzQz4fGydjKO6RjqkxTPxsvQdVR4jOSPMc58np8/edit?usp=sharing) de la presentación final del proyecto (Google Slides).
 
 ## ▶️ Rutas OSC Clave (Para PlugData)
 
